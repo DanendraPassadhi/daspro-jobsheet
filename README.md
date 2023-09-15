@@ -2,5 +2,5 @@
 
 Hello Github, ini adalah repository pertama saya.
 
-##USE
+## USE
 [![My Skills](https://skillicons.dev/icons?i=java,vscode)](https://skillicons.dev)
