@@ -5,7 +5,7 @@ public class HargaBayar06 {
         Scanner input = new Scanner(System.in);
         
         int harga, jumlah, jmlHalBuku;
-        double dis=0.1, total, bayar, jmlDis;
+        double dis, total, bayar, jmlDis;
         String merkBuku;
         
         System.out.println("Masukkan merk buku yang dibeli ");
