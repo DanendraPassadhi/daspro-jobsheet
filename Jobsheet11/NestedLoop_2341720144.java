@@ -27,7 +27,7 @@ public class NestedLoop_2341720144 {
             }
             double avgTemp = totalTemp / baris.length;
             System.out.println("Rata-rata: " + avgTemp);
-            i++;
+            i++; 
            }
     }
 }
