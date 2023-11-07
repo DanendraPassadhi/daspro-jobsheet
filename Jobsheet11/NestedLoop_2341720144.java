@@ -25,8 +25,8 @@ public class NestedLoop_2341720144 {
             for (double suhu : baris) {
                 totalTemp += suhu;
             }
-            double averageTemp = totalTemp / baris.length;
-            System.out.println("Rata-rata: " + averageTemp);
+            double avgTemp = totalTemp / baris.length;
+            System.out.println("Rata-rata: " + avgTemp);
             i++;
            }
     }
