@@ -31,5 +31,4 @@ public class Tugas3 {
             System.out.println();
         }
     }
-    
 }
