@@ -17,6 +17,6 @@ public class Tugas1 {
                 System.out.print(j);
             }
         System.out.println();    
-    }
+        }
     }
 }
